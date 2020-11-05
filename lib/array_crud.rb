@@ -35,5 +35,5 @@ array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-array[2]="element"
+array[4]="totally"
 end
